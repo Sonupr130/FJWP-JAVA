@@ -1,4 +1,4 @@
-package threads;
+package maps;
 
 import java.util.Scanner;
 import java.util.TreeMap;
